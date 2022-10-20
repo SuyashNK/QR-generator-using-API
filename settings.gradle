@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "QR using API"
+rootProject.name = "QR using API phase2"
 include ':app'
